@@ -12,4 +12,5 @@ left and right arrows = move left and right accordingly
 x = dash
 
 Objective: 
+
 kill all enemies to advance to the next level. Enemies have guns that shoot pellets, only 1 pellet is sufficient to kill you. Beware, sliding on a wall for too long will result in death.
